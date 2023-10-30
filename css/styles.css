@@ -415,37 +415,11 @@ body{
     
 }
 
-#fb-icon{
-    background-image: url(../images/fb-icon.png);
-    min-height: 5vh;
-    min-width: 5vh;
+.socials{
+    min-height: 3vh;
+    max-height: 5vh;
     border: solid 2px #ff7c5b;
-    border-radius: 15vh;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-#gmail-icon{
-    background-image: url(../images/gmail-icon.png);
-    min-height: 2vh;
-    min-width: 5vh;
-    border: solid 2px #ff7c5b;
-    border-radius: 15vh;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-#gh-icon{
-    background-image: url(../images/gh-icon.png);
-    min-height: 5vh;
-    min-width: 5vh;
-    border: solid 2px #ff7c5b;
-    border-radius: 15vh;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    border-radius: 50%;
 }
 
 
