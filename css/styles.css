@@ -1,7 +1,7 @@
 /* general instructions for all pages */
 @font-face {
     font-family: 'Super Dream';
-    src: url(/images/Super-Dream.ttf); 
+    src: url(../images/Super-Dream.ttf); 
 }
 
 *{
@@ -142,7 +142,7 @@ h2{
 /* banner */
 .banner{
     position: relative; 
-    background-image: url(/images/banner-img.png);
+    background-image: url(../images/banner-img.png);
     background-position-y: 80%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -223,7 +223,7 @@ h2{
 }
 
 .navigation{
-    background-image: url(/images/bg-img1.png);
+    background-image: url(../images/bg-img1.png);
     background-size: cover;
     padding-bottom: 10vh;
 }
@@ -396,15 +396,15 @@ body{
 }
 
 #althea-pfp{
-    background-image: url(/images/althea.jpg);
+    background-image: url(../images/althea.jpg);
 }
 
 #angela-pfp{
-    background-image: url(/images/angela.jpg);
+    background-image: url(../images/angela.jpg);
 }
 
 #ayesha-pfp{
-    background-image: url(/images/ayesha.jpg);
+    background-image: url(../images/ayesha.jpg);
 }
 
 /* social media icons */
@@ -416,7 +416,7 @@ body{
 }
 
 #fb-icon{
-    background-image: url(/images/fb-icon.png);
+    background-image: url(../images/fb-icon.png);
     min-height: 5vh;
     min-width: 5vh;
     border: solid 2px #ff7c5b;
@@ -427,7 +427,7 @@ body{
 }
 
 #gmail-icon{
-    background-image: url(/images/gmail-icon.png);
+    background-image: url(../images/gmail-icon.png);
     min-height: 2vh;
     min-width: 5vh;
     border: solid 2px #ff7c5b;
@@ -438,7 +438,7 @@ body{
 }
 
 #gh-icon{
-    background-image: url(/images/gh-icon.png);
+    background-image: url(../images/gh-icon.png);
     min-height: 5vh;
     min-width: 5vh;
     border: solid 2px #ff7c5b;
