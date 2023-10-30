@@ -753,7 +753,6 @@ table, td{
 /* mobile layout for REFERENCES PAGE */
 @media screen and (max-width: 720px) {
     #references-content{
-        height: 100vh;
         flex-direction: column;
         width: 100vw;
     }
@@ -763,6 +762,7 @@ table, td{
     }
     #references-list{
         margin-bottom: 20vh;
+        overflow-wrap: break-word;
     }
 }
 
