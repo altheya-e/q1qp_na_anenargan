@@ -755,6 +755,7 @@ table, td{
     #references-content{
         flex-direction: column;
         width: 100vw;
+        height: max-content;
     }
     #references-h1{
         margin-top: 40vh;
