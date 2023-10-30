@@ -342,8 +342,8 @@ body{
     height: fit-content;
     z-index: 98;
     position: absolute;
-    margin-top: 20vh;
-    margin-left: 40vh;
+    margin-top:25vh;
+    margin-left: 25%;
 }
 
 
@@ -466,8 +466,8 @@ body{
         display: block;
         font-size: 1em;
         z-index: 1;
-        margin-top: 50vh;
-        right: 20%;
+        margin-top: 40vh;
+        margin-left: 0;
     }
     #researchers-title h1{
         text-align: center;
@@ -748,6 +748,10 @@ table, td{
     font-family: Helvetica ;
     color: #20160d;
     line-height: 5vh;
+}
+
+#references-list li{
+    font-size: 1em;
 }
 
 /* mobile layout for REFERENCES PAGE */
